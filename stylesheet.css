@@ -45,12 +45,12 @@ div{
 	position:relative;
 	height: 50px;
 	float:right;
-	background-color:#668284;
+	background-color:dark blue;
 	clear:both;
 	font-family: Verdana, sans-serif;
 	font-size:14px;
 	text-align:center;
-	color:#ffffff
+	color:pink;
 }
 #footer p{
 	position:relative;
